@@ -1,0 +1,46 @@
+!v1
+weights:
+  accounts:
+    1: 100
+  projects:
+    https://github.com/Stebalien/tempfile: 100
+    https://github.com/arlyon/async-stripe: 100
+    https://github.com/chronotope/chrono: 100
+    https://github.com/clap-rs/clap: 100
+    https://github.com/ctz/hyper-rustls: 100
+    https://github.com/dtolnay/anyhow: 100
+    https://github.com/dtolnay/async-trait: 100
+    https://github.com/dtolnay/erased-serde: 100
+    https://github.com/dtolnay/proc-macro2: 100
+    https://github.com/dtolnay/quote: 100
+    https://github.com/dtolnay/serde-yaml: 100
+    https://github.com/dtolnay/syn: 100
+    https://github.com/dtolnay/thiserror: 100
+    https://github.com/hyperium/http: 100
+    https://github.com/kilork/openid: 100
+    https://github.com/launchbadge/sqlx: 100
+    https://github.com/matklad/once_cell: 100
+    https://github.com/poem-web/poem: 100
+    https://github.com/pyros2097/rust-embed: 100
+    https://github.com/raphlinus/pulldown-cmark: 100
+    https://github.com/rust-itertools/itertools: 100
+    https://github.com/rust-lang/futures-rs: 100
+    https://github.com/rust-random/rand: 100
+    https://github.com/rustls/rustls: 100
+    https://github.com/samscott89/serde_qs: 100
+    https://github.com/seanmonstar/reqwest: 100
+    https://github.com/serde-rs/json: 100
+    https://github.com/serde-rs/serde: 100
+    https://github.com/sile/sloggers: 100
+    https://github.com/slog-rs/slog: 100
+    https://github.com/tokio-rs/bytes: 100
+    https://github.com/tokio-rs/tls: 100
+    https://github.com/tokio-rs/tokio: 100
+    https://gitlab.com/tspiteri/fixed: 100
+
+    # Terraform providers
+    https://github.com/andrewbaxter/terraform-provider-stripe: 100
+    https://github.com/hashicorp/terraform-provider-aws: 100
+
+    # Tools
+    https://github.com/hashicorp/terraform: 100
