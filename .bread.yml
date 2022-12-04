@@ -4,22 +4,19 @@ weights:
     1: 100
   projects:
     https://github.com/Stebalien/tempfile: 100
+    https://github.com/andrewbaxter/bread-common: 100
+    https://github.com/andrewbaxter/terrars: 100
     https://github.com/arlyon/async-stripe: 100
     https://github.com/chronotope/chrono: 100
     https://github.com/clap-rs/clap: 100
     https://github.com/ctz/hyper-rustls: 100
     https://github.com/dtolnay/anyhow: 100
     https://github.com/dtolnay/async-trait: 100
-    https://github.com/dtolnay/erased-serde: 100
-    https://github.com/dtolnay/proc-macro2: 100
-    https://github.com/dtolnay/quote: 100
     https://github.com/dtolnay/serde-yaml: 100
-    https://github.com/dtolnay/syn: 100
-    https://github.com/dtolnay/thiserror: 100
     https://github.com/hyperium/http: 100
     https://github.com/kilork/openid: 100
     https://github.com/launchbadge/sqlx: 100
-    https://github.com/matklad/once_cell: 100
+    https://github.com/nox/serde_urlencoded: 100
     https://github.com/poem-web/poem: 100
     https://github.com/pyros2097/rust-embed: 100
     https://github.com/raphlinus/pulldown-cmark: 100
