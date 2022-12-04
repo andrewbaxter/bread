@@ -41,3 +41,7 @@ weights:
 
     # Tools
     https://github.com/hashicorp/terraform: 100
+
+    # Fonts (that have repos)
+    https://github.com/googlefonts/inconsolata: 100
+    https://github.com/googlefonts/comfortaa: 100
